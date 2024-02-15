@@ -1,2 +1,4 @@
 # Tan Çetiner
-Senior Computer Science Student at [Sabanci University](https://www.sabanciuniv.edu/en) and Software Engineer Intern at [YapıKredi Technology](https://www.ykteknoloji.com.tr/en/).
+ Computer science master’s student at [IP Paris](https://www.ip-paris.fr/en) with a wide range of interests and experience in computer graphics, software engineering, computer vision, deep learning and parallel computing.
+
+Also working as a freelance web developer. Contact me for possible collaborations!
